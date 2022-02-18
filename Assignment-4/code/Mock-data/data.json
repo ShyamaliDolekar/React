@@ -1,0 +1,26 @@
+{
+    "user":
+                [
+            {"name":"Siva",
+            "location":"Bengaluru",
+            "likes":64,
+            "description": "To-do list: Stay awake.",
+            "PostImage": "https://images.unsplash.com/photo-1644965220890-e1b5f5cc360b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+            "date": "8 Feb 2022"
+            },
+            {"name":"Neeraj",
+            "location":"Pune",
+            "likes":30,
+            "description": "Sundown is my kind of meltdown.",
+            "PostImage": "https://images.unsplash.com/photo-1644243019151-0bb97ce1af84?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+            "date": "11 Feb 2022"
+            },
+            {"name":"Tejas",
+            "location":"Hyderabad",
+            "likes":30,
+            "description": "Twinkle, twinkle, little star, point me to the nearest bar.",
+            "PostImage":"https://images.unsplash.com/photo-1644447381354-662bfd7c78f2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDEwfHhqUFI0aGxrQkdBfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=600&q=60",
+            "date": "15 Feb 2022"
+            }
+            ]
+} 
